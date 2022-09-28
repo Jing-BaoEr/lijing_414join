@@ -10,5 +10,5 @@
 ## 尤其是视频剪辑和建模两个方面想要有更多的学习与进步。特别希望在实践中熟练软件，在参赛中提升思维。希望能获得更多学习资源与建议，并在此过程中拓展眼界、精练技术。
 ***
 # 四、校园照片
-## ![校园朗读亭](https://github.com/Jing-BaoEr/lijing_414join/blob/main/%E6%A0%A1%E5%9B%AD%E6%9C%97%E8%AF%BB%E4%BA%AD.jpg)
+## ![校园朗读亭](https://github.com/Jing-BaoEr/lijing_414join/blob/main/%E6%A0%A1%E5%9B%AD%E6%9C%97%E8%AF%BB%E4%BA%AD.png)
 ***
